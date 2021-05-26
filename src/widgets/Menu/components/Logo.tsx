@@ -29,7 +29,7 @@ const StyledLink = styled(Link)`
   }
   .desktop-icon {
     width: 160px;
-    border-radiuos: 4px;
+    border-radius: 4px;
     display: none;
     ${({ theme }) => theme.mediaQueries.nav} {
       display: block;
