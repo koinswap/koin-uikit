@@ -3508,7 +3508,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pancakeswap",
+        href: "http://Twitter.com/koin_swap",
     },
 ];
 var MENU_HEIGHT = 64;
